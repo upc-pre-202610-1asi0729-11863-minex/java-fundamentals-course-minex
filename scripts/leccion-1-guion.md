@@ -8,15 +8,15 @@ Hola, bienvenidos al curso de Fundamentos de Java.
 
 Antes de escribir una sola línea de código, quiero que piensen en algo que probablemente ya hacen: jugar videojuegos. Cuando el personaje salta al presionar un botón, cuando el puntaje sube, cuando aparece un enemigo en pantalla — nada de eso ocurre por magia. Alguien tuvo que decirle a la computadora exactamente cuándo hacer cada cosa. Ese "alguien" es un programador. Y en este curso van a empezar a ser uno.
 
-No necesitan instalar nada. Solo el navegador que ya tienen abierto. Empecemos.
+¿Lo mejor? No necesitas instalar nada. Solo el navegador que ya tienen abierto. ¡Empecemos!
 
 ---
 
 ## ¿Qué es programar?
 
-Imaginen que le dan indicaciones a alguien que nunca ha salido de su casa para que llegue a un lugar. Tienen que decirle: sal por la puerta, gira a la derecha, camina dos cuadras, cruza en el semáforo. No pueden asumir que va a "intuir" el camino — si se saltan un paso o lo dicen en el orden equivocado, se pierde.
+Imaginen que le dan indicaciones a alguien que nunca ha salido de su casa para que llegue a un lugar. Tienen que ser ultra específicos: "sal por la puerta, camina dos cuadras, gira a la derecha en la farmacia, sube las escaleras". No pueden asumir que va a "adivinar" el camino. Si se saltan un paso o lo dicen en el orden equivocado, se pierde.
 
-Programar es exactamente eso: darle indicaciones precisas a una máquina que no entiende contexto, no improvisa y no adivina intenciones. Ejecuta cada instrucción en el orden exacto en que fue escrita.
+Programar es exactamente eso: darle indicaciones precisas a una máquina que no entiende de contextos, no improvisa y no adivina intenciones. Ejecuta cada instrucción en el orden exacto en que fue escrita.
 
 La diferencia con las indicaciones de la calle es que las instrucciones para una computadora se escriben en un lenguaje especial. Eso que escriben se llama **código**.
 
@@ -24,11 +24,11 @@ La diferencia con las indicaciones de la calle es que las instrucciones para una
 
 ## ¿Qué es Java?
 
-Java es uno de esos lenguajes especiales. Fue creado en 1995 y desde entonces se volvió uno de los más usados en el mundo — desde aplicaciones de celular hasta sistemas que procesan millones de transacciones bancarias por día. La versión original de Minecraft, por ejemplo, estaba escrita completamente en Java.
+Java es uno de esos lenguajes especiales. Fue creado en 1995 y desde entonces se volvió uno de los más usados en el mundo. Está detrás de millones de dispositivos Android y de los sistemas de empresas gigantes que usas todos los días como Netflix, Uber, Spotify o Amazon. De hecho, si alguna vez jugaste la versión original de Minecraft... sí, estaba escrita completamente en Java.
 
-¿Por qué aprender Java y no otro lenguaje? Porque Java obliga a pensar con orden: hay que declarar qué tipo de dato es cada variable, estructurar el código en clases y métodos, y ser explícito en cada instrucción. Esos hábitos son exactamente los que se necesitan para aprender a programar bien.
+Ahora, ¿por qué empezar con Java y no otro lenguaje? Porque Java te obliga a pensar con orden. Aquí no hay magia: tienes que decirle al programa exactamente qué tipo de dato usas, estructurar todo de forma limpia y ser explícito. Esos hábitos, esa disciplina, es exactamente lo que necesitas para aprender a programar bien desde el primer día.
 
-En las cinco lecciones de este curso van a construir, pieza por pieza, un programa que simula el carrito de compras de una tienda. Al final van a tener un programa que registra varios productos, calcula el subtotal de cada uno, suma el total de la compra y aplica un descuento automático cuando corresponda. Todo en Java, todo en el navegador.
+En las cinco lecciones de este curso van a construir, paso a paso, un simulador de carrito de compras. Al terminar el curso, tendrás un programa real que registra productos, calcula subtotales, suma el total de la compra y hasta aplica descuentos automáticos. Todo en Java y directo en tu navegador.
 
 ---
 
